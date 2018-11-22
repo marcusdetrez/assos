@@ -1,23 +1,5 @@
 
-body {
-	font-family: Open Sans, Arial ;
-	color: #000000;
-	font-size: 16px;
-	margin: 2em auto;
-	max-width: 800px;
-	padding: 1em;
-	line-height: 1.4;
-	text-align: justify;
-}
 
-
-div.islander{
-	font-family: Open Sans,Arial;
-	color: #CB000F;
-	font-size: 16px;
-	line-height: 1.4;
-	text-align: left;
-}
 
 
 #mainNav {
@@ -31,6 +13,7 @@ div.islander{
   color: #64a19d;
   border: 1px solid #64a19d;
 }
+
 
 #mainNav .navbar-toggler:focus {
   outline: none;
@@ -292,6 +275,22 @@ div.islander{
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
+  color: #000000;
+  font-size: 16px;
+  margin: 2em auto;
+  max-width: 800px;
+  padding: 1em;
+  line-height: 1.4;
+  text-align: justify;
+}
+
+
+div.islander{
+	font-family: Open Sans,Arial;
+	color: #CB000F;
+	font-size: 16px;
+	line-height: 1.4;
+	text-align: left;
 }
 
 a {
