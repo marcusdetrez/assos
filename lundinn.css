@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - Grayscale v5.0.2 (https://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2018 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
- */
 
 body {
 	font-family: Open Sans, Arial ;
@@ -15,22 +10,6 @@ body {
 	text-align: justify;
 }
 
-
-div.asidepositioning div.vinstrimyndin {
-	float: left;
-	width: 40%;
-	overflow: hidden;
-	margin-right: 1em;
-}
-
-div.asidepositioning div.vinstrimyndin p.context {
-	font-style: .7em;
-}
-
-div.asidepositioning div.vinstriritun {
-	float: left;
-	width: 55%;
-}
 
 div.islander{
 	font-family: Open Sans,Arial;
